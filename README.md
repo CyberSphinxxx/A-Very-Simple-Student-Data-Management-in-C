@@ -1,4 +1,4 @@
-# A-Very-Simple-Student-Data-Management-in-C
+# A‎ Very‎ Simple‎ Student‎ Data‎ Management‎ In‎ C
 
 A simple Student Data Management that can accept any amount of students when needed.
 
